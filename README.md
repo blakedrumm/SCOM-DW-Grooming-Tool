@@ -1,4 +1,5 @@
-> Blog Post: [https://blakedrumm.com/blog/scom-dw-grooming-tool/](https://blakedrumm.com/blog/scom-dw-grooming-tool/)
+> **Blog Post:** [https://blakedrumm.com/blog/scom-dw-grooming-tool/](https://blakedrumm.com/blog/scom-dw-grooming-tool/) \
+> **Quick Download:** [https://aka.ms/SCOM-DW-Tool](https://aka.ms/SCOM-DW-Tool)
 
 **Latest Version:** `1.0.5.4`
 
