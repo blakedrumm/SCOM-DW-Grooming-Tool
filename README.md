@@ -4,7 +4,7 @@
 [![Latest Version](https://img.shields.io/github/v/release/blakedrumm/SCOM-DW-Grooming-Tool)](https://github.com/blakedrumm/SCOM-DW-Grooming-Tool/releases/latest) \
 [![Download Count Latest](https://img.shields.io/github/downloads/blakedrumm/SCOM-DW-Grooming-Tool/latest/SCOM-DW-GroomingGUI-EXE-64bit.zip?style=for-the-badge&color=brightgreen)](https://aka.ms/SCOM-DW-Tool)
 
-![SCOM DW Grooming Tool](https://user-images.githubusercontent.com/63755224/171809788-cbbcb20c-1fd8-44f9-8b3a-a8a276dca83d.png)
+![SCOM DW Grooming Tool](https://user-images.githubusercontent.com/17127926/176571271-6cd1f5f1-7ab4-40ac-8498-0bc8f5a2089f.png)
 
 ## Introduction
 
