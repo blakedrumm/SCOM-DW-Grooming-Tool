@@ -1,8 +1,7 @@
 > **Blog Post:** [https://blakedrumm.com/blog/scom-dw-grooming-tool/](https://blakedrumm.com/blog/scom-dw-grooming-tool/) \
 > **Quick Download:** [https://aka.ms/SCOM-DW-Tool](https://aka.ms/SCOM-DW-Tool)
 
-[![Visits Badge](https://badges.strrl.dev/visits/blakedrumm/SCOM-DW-Grooming-Tool)](https://badges.strrl.dev)
-
+[![Visits Badge](https://badges.strrl.dev/visits/blakedrumm/SCOM-DW-Grooming-Tool)](https://badges.strrl.dev) \
 [![Latest Version](https://img.shields.io/github/v/release/blakedrumm/SCOM-DW-Grooming-Tool)](https://github.com/blakedrumm/SCOM-DW-Grooming-Tool/releases/latest) \
 [![Download Count Latest](https://img.shields.io/github/downloads/blakedrumm/SCOM-DW-Grooming-Tool/latest/SCOM-DW-GroomingGUI-EXE-64bit.zip?style=for-the-badge&color=brightgreen)](https://aka.ms/SCOM-DW-Tool)
 
