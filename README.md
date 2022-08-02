@@ -25,6 +25,9 @@ This script will log some actions to the Application Event Log. Look for the Eve
 
 ## More Information
 
-You will get prompted each time you run the script to accept the license agreement, unless you select do not ask me again, when you select this it will save a file to your ProgramData Directory: `C:\ProgramData\SCOM-DataWarehouseGUI-AgreedToLicense.log`
+You will get prompted each time you run the script to accept the license agreement, unless you select do not ask me again, when you select this it will save a file to your ProgramData Directory:
+```
+C:\ProgramData\SCOM-DataWarehouseGUI-AgreedToLicense.log
+```
 
 <!-- ![Visits](https://counter.blakedrumm.com/count/tag.svg?url=https://github.com/blakedrumm/SCOM-DW-Grooming-Tool) -->
